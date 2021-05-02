@@ -46,11 +46,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-/* =============================
-
-    GENERAL STYLES
-
-=============================*/
+/* GENERAL STYLES */
 
 * {
     box-sizing: border-box;
@@ -104,11 +100,7 @@ table {
     transition: color .15s ease-in-out;
   }
 
-  /* =============================
-
-    HEADER STYLES
-
-=============================*/
+  /* HEADER STYLES */
 
 .cover {
     background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg') no-repeat 70% center/cover;
@@ -167,11 +159,7 @@ table {
     margin: 0 .5rem;
   }
 
-  /* =============================
-
-      LOCATIONS STYLES
-
-=============================*/
+  /* LOCATIONS STYLES */
 
 .blurb img {
     height: 7.5rem;
@@ -195,11 +183,7 @@ table {
     background-color: #444349;
   }
 
-  /* =============================
-
-        PROGRAM STYLES
-
-=============================*/
+  /* PROGRAM STYLES */
 
 .program {
     width: 100vw;
@@ -223,11 +207,7 @@ table {
     letter-spacing: .025rem;
   }
 
-/* =============================
-
-        GIFTS STYLES
-
-=============================*/
+/* GIFTS STYLES */
 
 .gifts img {
     height: 7.5rem;
@@ -237,11 +217,7 @@ table {
     margin-bottom: 0;
   }
 
-  /* =============================
-
-        FAQ STYLES
-
-=============================*/
+  /* FAQ STYLES */
 
 .faq {
     background: hsla(100,0%,0%,.6);
@@ -277,11 +253,7 @@ table {
     margin-bottom: 1.5rem;
   }
 
-  /* =============================
-
-        FOOTER STYLES
-
-=============================*/
+  /* FOOTER STYLES */
 
 footer {
     height: 10vh;
